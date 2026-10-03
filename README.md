@@ -49,11 +49,17 @@ Administração de recursos da rede.
 Durante as atividades práticas do SENAC, foram criadas diversas Unidades Organizacionais (Organizational Units - OUs) dentro do domínio REVAD.LOCAL, simulando a estrutura administrativa de uma empresa real.
 Essa organização permite separar usuários, grupos, computadores e recursos por setor, facilitando o gerenciamento e aplicação de políticas de segurança.
 REVAD.LOCAL
+
 │
+
 └── SENAC
+
     │
+    
     ├── SAND
+
     │
+    
     └── SMIG
         │
         ├── Almoxarifado
